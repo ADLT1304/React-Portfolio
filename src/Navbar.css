@@ -1,0 +1,35 @@
+.Navbar {
+    background-color: #1c3738;
+    border: 5px solid white;
+}
+
+.Navbar h1{
+    color: #FFFF;
+    font-size: 55px;
+    padding: 0px 0px 0px 0px;
+    display: flex;
+    margin: 30px 0px 0px 0px;
+    justify-content: center;
+}
+
+.Navbar ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+    align-content: center;
+    color: #87A7F2;
+}
+
+.Navbar li {
+    padding: 0px 0px 10px 0px;
+    margin: 10px 10px 0px 10px;
+    display: flex;
+    align-content: center;
+    color: #FFFCF9;
+}
+
+.Navbar a {
+    color: #FFFF; 
+    padding: .15em .45em; 
+}

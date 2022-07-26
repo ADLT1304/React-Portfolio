@@ -1,0 +1,13 @@
+.Footer {
+    background-color: #1c3738;
+    border: 5px solid white;
+}
+
+.Footer h1{
+    color: #FFFF;
+    font-size: 55px;
+    padding: 0px 0px 0px 0px;
+    display: flex;
+    margin: 15px 0px 15px 0px;
+    justify-content: center;
+}

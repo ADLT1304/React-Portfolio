@@ -1,0 +1,16 @@
+.Navbar {
+    width: 100%;
+}
+
+body {
+    background-color: #4d4847; 
+    border: 5px solid white;
+    border-top: 0px;
+    border-bottom: 0px;
+    width: 100%;
+    color: white;
+}
+
+.Footer {
+    width: 100%;
+}
